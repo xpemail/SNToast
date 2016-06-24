@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "44E4EFA05B5F3805C820993B6E0C59B6F7371F30",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "44E4EFA05B5F3805C820993B6E0C59B6F7371F30" : 0,
+    "775E195363DA268E1E1924859088052B9B8BE981" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "99D81D0A-2E13-4408-B32F-F65CC95B20BE",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "44E4EFA05B5F3805C820993B6E0C59B6F7371F30" : "SNToast\/",
+    "775E195363DA268E1E1924859088052B9B8BE981" : "Toast"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Toast",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Toast.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/xpemail\/SNToast.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "44E4EFA05B5F3805C820993B6E0C59B6F7371F30"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/scalessec\/Toast.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "775E195363DA268E1E1924859088052B9B8BE981"
+    }
+  ]
+}
